@@ -1,6 +1,6 @@
 # CERTIFY: Academic Grade Management System
 
-> A secure and user-friendly academic grade management system built using Django.
+A secure and user-friendly academic grade management system built using Django.
 
 ---
 
