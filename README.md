@@ -71,3 +71,21 @@ python manage.py createsuperuser
 
 # Start the development server
 python manage.py runserver
+
+Contributing
+We welcome contributions!
+
+Fork the repository
+
+Create a new branch:
+git checkout -b feature/your-feature-name
+
+Commit your changes:
+git commit -m "Add feature"
+
+Push to your branch:
+git push origin feature/your-feature-name
+
+Open a Pull Request on GitHub
+
+
