@@ -2,8 +2,6 @@
 
 > A secure and user-friendly academic grade management system built using Django.
 
-![CERTIFY Banner](assets/logo.png)
-
 ---
 
 ## Project Overview
